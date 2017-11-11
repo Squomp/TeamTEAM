@@ -1,0 +1,16 @@
+C:\Users\Mitch\Documents\Team TEAM - Web Project\TeamTEAM\DBAndServiceLayer\DBAndServiceLayer\bin\Debug\DBAndServiceLayer.exe.config
+C:\Users\Mitch\Documents\Team TEAM - Web Project\TeamTEAM\DBAndServiceLayer\DBAndServiceLayer\bin\Debug\DBAndServiceLayer.exe
+C:\Users\Mitch\Documents\Team TEAM - Web Project\TeamTEAM\DBAndServiceLayer\DBAndServiceLayer\bin\Debug\DBAndServiceLayer.pdb
+C:\Users\Mitch\Documents\Team TEAM - Web Project\TeamTEAM\DBAndServiceLayer\DBAndServiceLayer\bin\Debug\MediaServiceLib.dll
+C:\Users\Mitch\Documents\Team TEAM - Web Project\TeamTEAM\DBAndServiceLayer\DBAndServiceLayer\bin\Debug\MediaDAL.dll
+C:\Users\Mitch\Documents\Team TEAM - Web Project\TeamTEAM\DBAndServiceLayer\DBAndServiceLayer\bin\Debug\EntityFramework.dll
+C:\Users\Mitch\Documents\Team TEAM - Web Project\TeamTEAM\DBAndServiceLayer\DBAndServiceLayer\bin\Debug\MediaServiceLib.pdb
+C:\Users\Mitch\Documents\Team TEAM - Web Project\TeamTEAM\DBAndServiceLayer\DBAndServiceLayer\bin\Debug\MediaServiceLib.dll.config
+C:\Users\Mitch\Documents\Team TEAM - Web Project\TeamTEAM\DBAndServiceLayer\DBAndServiceLayer\bin\Debug\MediaDAL.pdb
+C:\Users\Mitch\Documents\Team TEAM - Web Project\TeamTEAM\DBAndServiceLayer\DBAndServiceLayer\bin\Debug\MediaDAL.dll.config
+C:\Users\Mitch\Documents\Team TEAM - Web Project\TeamTEAM\DBAndServiceLayer\DBAndServiceLayer\bin\Debug\EntityFramework.xml
+C:\Users\Mitch\Documents\Team TEAM - Web Project\TeamTEAM\DBAndServiceLayer\DBAndServiceLayer\obj\Debug\DBAndServiceLayer.csprojResolveAssemblyReference.cache
+C:\Users\Mitch\Documents\Team TEAM - Web Project\TeamTEAM\DBAndServiceLayer\DBAndServiceLayer\obj\Debug\DBAndServiceLayer.exe
+C:\Users\Mitch\Documents\Team TEAM - Web Project\TeamTEAM\DBAndServiceLayer\DBAndServiceLayer\obj\Debug\DBAndServiceLayer.pdb
+C:\Users\Mitch\Documents\Team TEAM - Web Project\TeamTEAM\DBAndServiceLayer\DBAndServiceLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mitch\Documents\Team TEAM - Web Project\TeamTEAM\DBAndServiceLayer\DBAndServiceLayer\bin\Debug\EntityFramework.SqlServer.xml
