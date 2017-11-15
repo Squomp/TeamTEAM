@@ -1,0 +1,71 @@
+﻿html {
+    overflow-x: hidden;
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    background-color: #727272;
+}
+
+.navbar-header {
+    background-color: #FFA800;
+    width: 100%;
+    left: 0;
+    bottom: 0;
+}
+
+.navbar-collapse {
+    width: 90%;
+}
+
+.navbar-collapse img {
+    width: 80px;
+    height: 80px;
+    float: left;
+}
+
+.navbar-nav {
+    overflow: hidden;
+    list-style-type: none;
+    font-family: sans-serif;
+    margin-right: 200px;
+    background-color: #FFA800;
+}
+
+
+.navbar-nav li {
+    float: left;
+}
+
+.navbar-nav li a {
+   display: block;
+   padding: 25px 20px;
+   text-align: center;
+   text-decoration: none;
+   font-size: 20px;
+   color: white;
+}
+
+.navbar-nav li a:hover:not(.active) {
+    background-color: #FFF;
+    color: #000;
+}
+
+.body-content {
+    
+}
+
+footer {
+    position: absolute;
+    background-color: #FFA800;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+}
+
+footer .footer-content {
+    width: 95%;
+    margin: auto;
+}
