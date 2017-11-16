@@ -69,3 +69,74 @@ c:\users\lawrence douglas\source\repos\PolyWave Site\PolyWave Site\obj\Debug\Pol
 c:\users\lawrence douglas\source\repos\PolyWave Site\PolyWave Site\obj\Debug\PolyWave Site.csproj.CoreCompileInputs.cache
 c:\users\lawrence douglas\source\repos\PolyWave Site\PolyWave Site\obj\Debug\PolyWave Site.dll
 c:\users\lawrence douglas\source\repos\PolyWave Site\PolyWave Site\obj\Debug\PolyWave Site.pdb
+C:\Users\Cybeast\Desktop\WebBasedProjects\TeamTEAM\PolyWave Site\bin\ApplicationInsights.config
+C:\Users\Cybeast\Desktop\WebBasedProjects\TeamTEAM\PolyWave Site\bin\PolyWave Site.dll.config
+C:\Users\Cybeast\Desktop\WebBasedProjects\TeamTEAM\PolyWave Site\bin\PolyWave Site.dll
+C:\Users\Cybeast\Desktop\WebBasedProjects\TeamTEAM\PolyWave Site\bin\PolyWave Site.pdb
+C:\Users\Cybeast\Desktop\WebBasedProjects\TeamTEAM\PolyWave Site\bin\Antlr3.Runtime.dll
+C:\Users\Cybeast\Desktop\WebBasedProjects\TeamTEAM\PolyWave Site\bin\EntityFramework.dll
+C:\Users\Cybeast\Desktop\WebBasedProjects\TeamTEAM\PolyWave Site\bin\EntityFramework.SqlServer.dll
+C:\Users\Cybeast\Desktop\WebBasedProjects\TeamTEAM\PolyWave Site\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Cybeast\Desktop\WebBasedProjects\TeamTEAM\PolyWave Site\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Cybeast\Desktop\WebBasedProjects\TeamTEAM\PolyWave Site\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Cybeast\Desktop\WebBasedProjects\TeamTEAM\PolyWave Site\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Cybeast\Desktop\WebBasedProjects\TeamTEAM\PolyWave Site\bin\Microsoft.AI.Web.dll
+C:\Users\Cybeast\Desktop\WebBasedProjects\TeamTEAM\PolyWave Site\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Cybeast\Desktop\WebBasedProjects\TeamTEAM\PolyWave Site\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Cybeast\Desktop\WebBasedProjects\TeamTEAM\PolyWave Site\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Cybeast\Desktop\WebBasedProjects\TeamTEAM\PolyWave Site\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Cybeast\Desktop\WebBasedProjects\TeamTEAM\PolyWave Site\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Cybeast\Desktop\WebBasedProjects\TeamTEAM\PolyWave Site\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Cybeast\Desktop\WebBasedProjects\TeamTEAM\PolyWave Site\bin\Microsoft.Owin.dll
+C:\Users\Cybeast\Desktop\WebBasedProjects\TeamTEAM\PolyWave Site\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Cybeast\Desktop\WebBasedProjects\TeamTEAM\PolyWave Site\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Cybeast\Desktop\WebBasedProjects\TeamTEAM\PolyWave Site\bin\Microsoft.Owin.Security.dll
+C:\Users\Cybeast\Desktop\WebBasedProjects\TeamTEAM\PolyWave Site\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Cybeast\Desktop\WebBasedProjects\TeamTEAM\PolyWave Site\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Cybeast\Desktop\WebBasedProjects\TeamTEAM\PolyWave Site\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Cybeast\Desktop\WebBasedProjects\TeamTEAM\PolyWave Site\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Cybeast\Desktop\WebBasedProjects\TeamTEAM\PolyWave Site\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Cybeast\Desktop\WebBasedProjects\TeamTEAM\PolyWave Site\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Cybeast\Desktop\WebBasedProjects\TeamTEAM\PolyWave Site\bin\Newtonsoft.Json.dll
+C:\Users\Cybeast\Desktop\WebBasedProjects\TeamTEAM\PolyWave Site\bin\Owin.dll
+C:\Users\Cybeast\Desktop\WebBasedProjects\TeamTEAM\PolyWave Site\bin\System.Web.Helpers.dll
+C:\Users\Cybeast\Desktop\WebBasedProjects\TeamTEAM\PolyWave Site\bin\System.Web.Mvc.dll
+C:\Users\Cybeast\Desktop\WebBasedProjects\TeamTEAM\PolyWave Site\bin\System.Web.Optimization.dll
+C:\Users\Cybeast\Desktop\WebBasedProjects\TeamTEAM\PolyWave Site\bin\System.Web.Razor.dll
+C:\Users\Cybeast\Desktop\WebBasedProjects\TeamTEAM\PolyWave Site\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Cybeast\Desktop\WebBasedProjects\TeamTEAM\PolyWave Site\bin\System.Web.WebPages.dll
+C:\Users\Cybeast\Desktop\WebBasedProjects\TeamTEAM\PolyWave Site\bin\System.Web.WebPages.Razor.dll
+C:\Users\Cybeast\Desktop\WebBasedProjects\TeamTEAM\PolyWave Site\bin\WebGrease.dll
+C:\Users\Cybeast\Desktop\WebBasedProjects\TeamTEAM\PolyWave Site\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Cybeast\Desktop\WebBasedProjects\TeamTEAM\PolyWave Site\bin\System.Web.Helpers.xml
+C:\Users\Cybeast\Desktop\WebBasedProjects\TeamTEAM\PolyWave Site\bin\System.Web.Mvc.xml
+C:\Users\Cybeast\Desktop\WebBasedProjects\TeamTEAM\PolyWave Site\bin\System.Web.Optimization.xml
+C:\Users\Cybeast\Desktop\WebBasedProjects\TeamTEAM\PolyWave Site\bin\System.Web.Razor.xml
+C:\Users\Cybeast\Desktop\WebBasedProjects\TeamTEAM\PolyWave Site\bin\System.Web.WebPages.xml
+C:\Users\Cybeast\Desktop\WebBasedProjects\TeamTEAM\PolyWave Site\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Cybeast\Desktop\WebBasedProjects\TeamTEAM\PolyWave Site\bin\System.Web.WebPages.Razor.xml
+C:\Users\Cybeast\Desktop\WebBasedProjects\TeamTEAM\PolyWave Site\bin\Antlr3.Runtime.pdb
+C:\Users\Cybeast\Desktop\WebBasedProjects\TeamTEAM\PolyWave Site\bin\Newtonsoft.Json.xml
+C:\Users\Cybeast\Desktop\WebBasedProjects\TeamTEAM\PolyWave Site\bin\EntityFramework.xml
+C:\Users\Cybeast\Desktop\WebBasedProjects\TeamTEAM\PolyWave Site\bin\EntityFramework.SqlServer.xml
+C:\Users\Cybeast\Desktop\WebBasedProjects\TeamTEAM\PolyWave Site\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Cybeast\Desktop\WebBasedProjects\TeamTEAM\PolyWave Site\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Cybeast\Desktop\WebBasedProjects\TeamTEAM\PolyWave Site\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Cybeast\Desktop\WebBasedProjects\TeamTEAM\PolyWave Site\bin\Microsoft.Owin.xml
+C:\Users\Cybeast\Desktop\WebBasedProjects\TeamTEAM\PolyWave Site\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Cybeast\Desktop\WebBasedProjects\TeamTEAM\PolyWave Site\bin\Microsoft.Owin.Security.xml
+C:\Users\Cybeast\Desktop\WebBasedProjects\TeamTEAM\PolyWave Site\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Cybeast\Desktop\WebBasedProjects\TeamTEAM\PolyWave Site\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Cybeast\Desktop\WebBasedProjects\TeamTEAM\PolyWave Site\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Cybeast\Desktop\WebBasedProjects\TeamTEAM\PolyWave Site\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Cybeast\Desktop\WebBasedProjects\TeamTEAM\PolyWave Site\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Cybeast\Desktop\WebBasedProjects\TeamTEAM\PolyWave Site\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Cybeast\Desktop\WebBasedProjects\TeamTEAM\PolyWave Site\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Cybeast\Desktop\WebBasedProjects\TeamTEAM\PolyWave Site\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Cybeast\Desktop\WebBasedProjects\TeamTEAM\PolyWave Site\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Cybeast\Desktop\WebBasedProjects\TeamTEAM\PolyWave Site\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Cybeast\Desktop\WebBasedProjects\TeamTEAM\PolyWave Site\bin\Microsoft.AI.Web.xml
+C:\Users\Cybeast\Desktop\WebBasedProjects\TeamTEAM\PolyWave Site\obj\Debug\PolyWave Site.csprojResolveAssemblyReference.cache
+C:\Users\Cybeast\Desktop\WebBasedProjects\TeamTEAM\PolyWave Site\obj\Debug\PolyWave Site.csproj.CoreCompileInputs.cache
+C:\Users\Cybeast\Desktop\WebBasedProjects\TeamTEAM\PolyWave Site\obj\Debug\PolyWave Site.dll
+C:\Users\Cybeast\Desktop\WebBasedProjects\TeamTEAM\PolyWave Site\obj\Debug\PolyWave Site.pdb
