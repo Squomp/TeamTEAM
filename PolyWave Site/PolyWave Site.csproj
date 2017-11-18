@@ -288,6 +288,16 @@
     <None Include="packages.config" />
     <Content Include="Scripts\jquery-1.10.2.min.map" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MediaDAL\MediaDAL.csproj">
+      <Project>{331926a5-1f0c-456a-aaa3-5ae092b99ea2}</Project>
+      <Name>MediaDAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MediaServiceLib\MediaServiceLib.csproj">
+      <Project>{79adada5-27aa-495a-860a-355b7109aa51}</Project>
+      <Name>MediaServiceLib</Name>
+    </ProjectReference>
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
