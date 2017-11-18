@@ -202,10 +202,19 @@
     <Compile Include="Startup.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Audio\Lucio.mp3" />
+    <Content Include="Audio\Try.mp3" />
+    <Content Include="Audio\Wombo.mp3" />
     <Content Include="Content\home.css" />
     <Content Include="Content\Style.css" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="Gifs\Fail.gif" />
+    <Content Include="Gifs\KungFuBaby.gif" />
+    <Content Include="Gifs\NoTime.gif" />
+    <Content Include="Gifs\Roller.gif" />
+    <Content Include="Gifs\Tom.gif" />
+    <Content Include="Gifs\Trump.gif" />
     <Content Include="Global.asax" />
     <Content Include="Content\Categorycss.css" />
     <Content Include="Images\animal.jpg" />
