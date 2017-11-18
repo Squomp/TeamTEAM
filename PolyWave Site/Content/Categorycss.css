@@ -7,13 +7,14 @@
     padding: 2%;
     overflow: hidden;
     margin: auto;
+    transition: all 1s ease;
 }
 
-    /*.descEnd {
+.descEnd {
     display: -webkit-box;
     -webkit-line-clamp: 1;
     -webkit-box-orient: vertical;
-}*/
+}
 
 .categoryButton:hover, .categoryButton:active {
     padding: 3%;
@@ -33,8 +34,6 @@
     display: inline-block;
     margin-right: auto;
     margin-left: auto;
-    width: 20px;
-    height:20px;
 }
 
 #content-holder {
