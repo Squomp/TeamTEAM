@@ -1,18 +1,20 @@
 ﻿html {
     overflow-x: hidden;
-    position: relative;
     min-height: 100%;
 }
 
 body {
     background-color: #727272;
+    margin-bottom: 0;
 }
 
 .navbar-header {
     background-color: #FFA800;
-    width: 100%;
+    width: 102%;
     left: 0;
     bottom: 0;
+    margin-top: -17px;
+    margin-left: -10px;
 }
 
 .navbar-collapse {
@@ -52,17 +54,12 @@ body {
     color: #000;
 }
 
-.body-content {
-    
-}
-
 footer {
-    position: absolute;
+    position: relative;
     background-color: #FFA800;
-    bottom: 0;
-    left: 0;
-    width: 100%;
+    width: 102%;
     overflow: hidden;
+    margin-left: -10px;
 }
 
 footer .footer-content {
